@@ -11,7 +11,8 @@ Original file is located at
 
 # Hamed Mirzabagherian: h.mirabagherian@aut.ac.ir
 # Mohammad Bagher Menhaj: menhaj@aut.ac.ir
-# Amir Abolfazl Suratgar: a-suratgar@aut.ac.ir,
+# Amir Abolfazl Suratgar: a-suratgar@aut.ac.ir
+# Mohammadreza Abbasi Sardari: fcafmohammadreza@aut.ac.ir
 
 """# **EEGNet Model**"""
 
