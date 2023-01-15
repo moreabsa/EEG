@@ -9,10 +9,11 @@ Original file is located at
 
 ### paper: "Temporal-Spatial Convolutional Residual Network for Decoding Attempted Movement Related EEG Signals of Subjects with Spinal Cord Injury"
 
+# Mohammadreza Abbasi Sardari: fcafmohammadreza@aut.ac.ir
 # Hamed Mirzabagherian: h.mirabagherian@aut.ac.ir
 # Mohammad Bagher Menhaj: menhaj@aut.ac.ir
 # Amir Abolfazl Suratgar: a-suratgar@aut.ac.ir
-# Mohammadreza Abbasi Sardari: fcafmohammadreza@aut.ac.ir
+
 
 """# **EEGNet Model**"""
 
